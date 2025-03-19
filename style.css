@@ -1,5 +1,5 @@
 body {
-    background-color: forestgreen;
+    background-color: fuschia;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 table {
     width: 600px;
     margin: 0 auto;
-    background-color: lightgreen;
+    background-color: rose;
     border-collapse: collapse;
     text-align: left;
     float: left;
@@ -26,7 +26,7 @@ td {
 }
 
 img {
-    border: 3px solid forestgreen;
+    border: 3px solid fuschia;
     padding: 10px;
     display: block;
     margin: 0 auto;
