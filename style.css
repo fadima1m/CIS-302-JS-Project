@@ -1,5 +1,6 @@
 body {
     background-color: fuschia;
+    font: calibri;
 }
 
 h1 {
@@ -7,7 +8,8 @@ h1 {
     font-size: 24px;
     padding: 10px;
     margin-bottom: 20px;
-    text-align: left;
+    text-align: center;
+    text-shadow: 24px 24px magenta;
 }
 
 table {
@@ -15,8 +17,8 @@ table {
     margin: 0 auto;
     background-color: rose;
     border-collapse: collapse;
-    text-align: left;
-    float: left;
+    text-align: center;
+    float: center;
 }
 
 td {
